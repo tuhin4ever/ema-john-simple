@@ -5,6 +5,18 @@
     position: sticky;
     top: 0;
 }
+.btn-clear-cart{
+    width: 90%;
+    margin: 10px auto;
+    border-radius: 4px;
+    background: #FF3030;
+    color: white;
+    font-size: 21px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .cart p {
     font-size: 17px;
     margin-left: 23px;
